@@ -34,7 +34,7 @@ I am a **3rd Year B.Tech IT student** passionate about building impactful techno
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,django,firebase,git,github" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,firebase,git,github" />
 <br/><br/>
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0ea5e9?style=for-the-badge&logo=scikitlearn&logoColor=white)
