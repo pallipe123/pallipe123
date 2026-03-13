@@ -1,148 +1,135 @@
-<!-- =========================
-     GitHub Profile README - Ready to Use
-     ========================= -->
+﻿<div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Susmitha%20Pallipe&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12&fontColor=ffffff&desc=AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Full%20Stack%20Development&descAlign=50&descAlignY=60&fontSize=42" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Susmitha%20Pallipe&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:22c55e&fontColor=ffffff&desc=AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Full%20Stack%20Development%20Enthusiast&descAlign=50&descAlignY=62" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=B.Tech+IT+Student+%7C+3rd+Year;Building+AI+%2B+IoT+solutions+for+real-world+problems;Django+%7C+Python+%7C+Machine+Learning;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Susmitha+Pallipe+%F0%9F%91%8B;B.Tech+IT+%7C+3rd+Year+Student;Building+AI+%2B+IoT+Solutions+for+Real-World+Problems;Exploring+Full+Stack+Development+with+Django+%26+Modern+Web+Tech)](https://git.io/typing-svg)
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pallipe123&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pallipe123?label=Followers&style=for-the-badge&color=22c55e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/pallipe123?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Stars" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=pallipe123&label=Profile+Views&color=0ea5e9&style=flat" alt="Profile Views" />
 
 </div>
 
----
-
-## <div align="center">About Me</div>
-
-Hi, I am **Susmitha Pallipe** from **Andhra Pradesh, India**.  
-I am a **3rd Year B.Tech IT student** passionate about building impactful technology.
-
-- Passionate about solving real-world problems using **AI** and **IoT**
-- Currently learning **Data Structures, Django, Machine Learning, and Generative AI**
-- Interested in building **smart systems** and **automation projects**
-- Exploring the intersection of **intelligence + connectivity + web platforms**
+<br/>
 
 ---
 
-## <div align="center">Tech Stack</div>
+### About Me
+
+I am **Susmitha Pallipe**, a B.Tech Information Technology student (3rd year) from **Andhra Pradesh, India**, passionate about applying AI and IoT to solve real-world problems. My work focuses on smart farming, intelligent monitoring systems, and full-stack web development. I enjoy bridging the gap between hardware sensor data and data-driven software decisions — building end-to-end solutions that are practical and impactful.
+
+- Currently learning **Machine Learning**, **Django**, **Data Structures & Algorithms**, and **Generative AI**
+- Interested in **smart agriculture**, **IoT-enabled automation**, and **intelligent web systems**
+- Open to internships, research collaborations, and hackathon teams
+
+---
+
+### Tech Stack
+
+**Languages & Web**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Tools & Platforms**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**ML & Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+---
+
+### Featured Projects
+
+** Smart Irrigation Dashboard**
+A modern agri-tech dashboard that reads IoT sensor data and applies machine learning predictions to recommend irrigation schedules — helping farmers reduce water usage and improve crop health.
+
+** Crop Yield Prediction System**
+A machine learning project that predicts crop yield using agricultural and environmental data such as soil quality, rainfall, and temperature. Explores multiple regression models and feature engineering techniques.
+
+** Disease Progression Risk Predictor**
+A Python ML project that predicts the severity of disease progression using patient data. Includes preprocessing pipelines, model comparison across classifiers, and a lightweight Flask web interface for predictions.
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,firebase,git,github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pallipe123&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pallipe123&theme=default&hide_border=true" />
+
 <br/><br/>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0ea5e9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallipe123&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 
 ---
 
-## <div align="center">Featured Projects</div>
-
-<table>
-<tr>
-<td width="50%">
-
-###  Smart Farming Assistant (AI + IoT)
-An intelligent farming support system that combines sensor-based IoT inputs with AI insights to help improve crop decisions and productivity.
-
-</td>
-<td width="50%">
-
-###  Soil Moisture Monitoring System
-A real-time monitoring setup to track soil moisture and support efficient irrigation planning for better water management.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-###  HerbalEye (Medicinal Plant Identifier)
-A computer vision-based project that identifies medicinal plants and provides useful details for awareness and learning.
-
-</td>
-<td width="50%">
-
-###  Django Mood-Based Quote Journal
-A Django web app that records user moods and suggests motivational quotes, creating a personalized journaling experience.
-
-</td>
-</tr>
-</table>
-
----
-
-## <div align="center">GitHub Stats</div>
+### GitHub Trophies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pallipe123&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pallipe123&theme=transparent&hide_border=true" />
-<br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallipe123&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=pallipe123&theme=flat&no-frame=true&margin-w=8&row=1&column=6" />
 
 </div>
 
 ---
 
-## <div align="center">GitHub Trophies</div>
+### Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pallipe123&theme=flat&no-frame=true&row=1&column=7" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pallipe123&bg_color=ffffff&color=0ea5e9&line=0ea5e9&point=0369a1&area=true&hide_border=true)](https://github.com/pallipe123)
 
 </div>
 
 ---
 
-## <div align="center">Contribution Graph</div>
-
-<div align="center">
-
-[![Susmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pallipe123&bg_color=ffffff&color=0ea5e9&line=22c55e&point=0ea5e9&area=true&hide_border=true)](https://github.com/pallipe123)
-
-</div>
-
----
-
-## <div align="center">Contribution Snake</div>
+### Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallipe123/pallipe123/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallipe123/pallipe123/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pallipe123/pallipe123/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/pallipe123/pallipe123/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## <div align="center">Connect With Me</div>
+### Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susmitha-pallipe-ab33bb306)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallipe123)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallipesusmitha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Susmitha%20Pallipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susmitha-pallipe-ab33bb306)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-pallipe123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallipe123)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-pallipesusmitha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallipesusmitha@gmail.com)
 
 </div>
 
 ---
 
-## <div align="center">Fun Zone</div>
-
 <div align="center">
 
-> "I debug because being a detective in a crime movie where I am also the culprit is fun."
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,100:22c55e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=gradient&customColorList=12" width="100%" />
