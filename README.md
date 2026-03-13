@@ -7,6 +7,10 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=pallipe123&label=Profile+Views&color=0ea5e9&style=flat" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pallipe123?label=Followers&color=22c55e&style=flat" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/pallipe123?affiliations=OWNER%2CCOLLABORATOR&label=Stars&color=f59e0b&style=flat" alt="Stars" />
 
 </div>
 
@@ -32,33 +36,51 @@ I am **Susmitha Pallipe**, a B.Tech Information Technology student (3rd year) fr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 **Tools & Platforms**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-**ML & Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-** Smart Irrigation Dashboard**
-A modern agri-tech dashboard that reads IoT sensor data and applies machine learning predictions to recommend irrigation schedules — helping farmers reduce water usage and improve crop health.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-** Crop Yield Prediction System**
-A machine learning project that predicts crop yield using agricultural and environmental data such as soil quality, rainfall, and temperature. Explores multiple regression models and feature engineering techniques.
+**🌾 Smart Irrigation Dashboard**
 
-** Disease Progression Risk Predictor**
-A Python ML project that predicts the severity of disease progression using patient data. Includes preprocessing pipelines, model comparison across classifiers, and a lightweight Flask web interface for predictions.
+A modern agri-tech dashboard that reads IoT sensor data and uses machine learning predictions to recommend irrigation schedules.
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Crop Yield Prediction System**
+
+A machine learning system that predicts crop yield using agricultural and environmental data.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 Disease Progression Risk Predictor**
+
+A Python machine learning project that predicts disease progression severity using data preprocessing, model comparison, and a Flask interface.
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ Satellite + IoT Soil Moisture Monitoring System**
+
+My EPICS project that combines satellite data and IoT sensor observations to monitor soil moisture for smart agriculture.
+
+</td>
+</tr>
+</table>
 
 ---
 
